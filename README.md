@@ -1,6 +1,6 @@
-# API_Applications
+## API_Applications
 
-1-Weather Application
+1- Weather Application
 
 - getting data from API
 
